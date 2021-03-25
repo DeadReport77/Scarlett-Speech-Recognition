@@ -1,0 +1,10 @@
+C:\Users\Leeraoy.Jenkins\source\repos\Scarlett\bin\Debug\Scarlett.exe.config
+C:\Users\Leeraoy.Jenkins\source\repos\Scarlett\bin\Debug\Scarlett.exe
+C:\Users\Leeraoy.Jenkins\source\repos\Scarlett\bin\Debug\Scarlett.pdb
+C:\Users\Leeraoy.Jenkins\source\repos\Scarlett\obj\Debug\Scarlett.Form1.resources
+C:\Users\Leeraoy.Jenkins\source\repos\Scarlett\obj\Debug\Scarlett.Properties.Resources.resources
+C:\Users\Leeraoy.Jenkins\source\repos\Scarlett\obj\Debug\Scarlett.Scanning.resources
+C:\Users\Leeraoy.Jenkins\source\repos\Scarlett\obj\Debug\Scarlett.csproj.GenerateResource.cache
+C:\Users\Leeraoy.Jenkins\source\repos\Scarlett\obj\Debug\Scarlett.csproj.CoreCompileInputs.cache
+C:\Users\Leeraoy.Jenkins\source\repos\Scarlett\obj\Debug\Scarlett.exe
+C:\Users\Leeraoy.Jenkins\source\repos\Scarlett\obj\Debug\Scarlett.pdb
